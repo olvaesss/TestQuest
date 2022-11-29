@@ -1,0 +1,23 @@
+{
+  "name": "testquest",
+  "version": "1.0.0",
+  "description": "Test Quest Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stepan Staravoitau <hxhmokk@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olvaesss/TestQuest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olvaesss/TestQuest/issues"
+  },
+  "homepage": "https://github.com/olvaesss/TestQuest#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
